@@ -1,0 +1,229 @@
+Matchday,Home,Away,Month,Day,Date of the week,Attendance
+1,Ulsan HD FC,Pohang Steelers,3,1,Fri,28683
+1,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,3,1,Fri,24758
+1,Incheon United,Suwon FC,3,2,Sat,15060
+1,Gangwon FC,Jeju SK,3,2,Sat,6021
+1,Gwangju FC,FC Seoul,3,2,Sat,7805
+1,Daegu FC,Gimcheon Sangmu,3,3,Sun,12133
+2,Pohang Steelers,Daegu FC,3,9,Sat,10946
+2,Suwon FC,Jeonbuk Hyundai Motors,3,9,Sat,9557
+2,Gimcheon Sangmu,Ulsan HD FC,3,9,Sat,5848
+2,FC Seoul,Incheon United,3,10,Sun,51670
+2,Jeju SK,Daejeon Hana Citizen,3,10,Sun,9083
+2,Gwangju FC,Gangwon FC,3,10,Sun,5786
+3,FC Seoul,Jeju SK,3,16,Sat,29536
+3,Daegu FC,Suwon FC,3,16,Sat,11997
+3,Daejeon Hana Citizen,Gangwon FC,3,16,Sat,17191
+3,Ulsan HD FC,Incheon United,3,17,Sun,15233
+3,Pohang Steelers,Gwangju FC,3,17,Sun,9203
+3,Gimcheon Sangmu,Jeonbuk Hyundai Motors,3,17,Sun,4300
+4,Jeonbuk Hyundai Motors,Ulsan HD FC,3,30,Sat,25782
+4,Incheon United,Daejeon Hana Citizen,3,30,Sat,11581
+4,Jeju SK,Pohang Steelers,3,30,Sat,6036
+4,Suwon FC,Gimcheon Sangmu,3,30,Sat,6145
+4,Gangwon FC,FC Seoul,3,31,Sun,10144
+4,Gwangju FC,Daegu FC,3,31,Sun,7313
+5,Pohang Steelers,Suwon FC,4,2,Tue,5143
+5,Daejeon Hana Citizen,Ulsan HD FC,4,2,Tue,7927
+5,FC Seoul,Gimcheon Sangmu,4,3,Wed,13040
+5,Gangwon FC,Daegu FC,4,3,Wed,3056
+5,Jeju SK,Jeonbuk Hyundai Motors,4,3,Wed,3426
+5,Gwangju FC,Incheon United,4,3,Wed,1562
+6,Ulsan HD FC,Suwon FC,4,6,Sat,14215
+6,Incheon United,Jeju SK,4,6,Sat,9293
+6,Gimcheon Sangmu,Gwangju FC,4,6,Sat,2978
+6,Jeonbuk Hyundai Motors,Gangwon FC,4,7,Sun,11215
+6,Daegu FC,FC Seoul,4,7,Sun,12088
+6,Daejeon Hana Citizen,Pohang Steelers,4,7,Sun,10761
+7,FC Seoul,Pohang Steelers,4,13,Sat,29051
+7,Ulsan HD FC,Gangwon FC,4,13,Sat,13874
+7,Jeonbuk Hyundai Motors,Gwangju FC,4,13,Sat,11229
+7,Jeju SK,Gimcheon Sangmu,4,13,Sat,4211
+7,Incheon United,Daegu FC,4,14,Sun,9400
+7,Suwon FC,Daejeon Hana Citizen,4,14,Sun,4961
+8,FC Seoul,Jeonbuk Hyundai Motors,4,20,Sat,28048
+8,Pohang Steelers,Gimcheon Sangmu,4,20,Sat,7673
+8,Suwon FC,Jeju SK,4,20,Sat,2522
+8,Daegu FC,Daejeon Hana Citizen,4,21,Sun,11330
+8,Gangwon FC,Incheon United,4,21,Sun,6025
+9,Daejeon Hana Citizen,FC Seoul,4,27,Sat,12700
+9,Gwangju FC,Suwon FC,4,27,Sat,5440
+9,Gimcheon Sangmu,Gangwon FC,4,27,Sat,2338
+9,Ulsan HD FC,Jeju SK,4,28,Sun,20253
+9,Jeonbuk Hyundai Motors,Daegu FC,4,28,Sun,13642
+9,Pohang Steelers,Incheon United,4,28,Sun,7564
+10,Daejeon Hana Citizen,Gimcheon Sangmu,4,30,Tue,4974
+10,Suwon FC,FC Seoul,4,30,Tue,7570
+10,Daegu FC,Ulsan HD FC,5,1,Wed,11466
+10,Incheon United,Jeonbuk Hyundai Motors,5,1,Wed,10094
+10,Gangwon FC,Pohang Steelers,5,1,Wed,4157
+10,Jeju SK,Gwangju FC,5,1,Wed,4502
+11,FC Seoul,Ulsan HD FC,5,4,Sat,52600
+11,Pohang Steelers,Jeonbuk Hyundai Motors,5,4,Sat,13002
+11,Suwon FC,Gangwon FC,5,5,Sun,3008
+11,Gimcheon Sangmu,Incheon United,5,5,Sun,2651
+11,Jeju SK,Daegu FC,5,6,Mon,10033
+11,Gwangju FC,Daejeon Hana Citizen,5,6,Mon,4221
+12,Daegu FC,Gwangju FC,5,11,Sat,11967
+12,Incheon United,FC Seoul,5,11,Sat,14435
+12,Gangwon FC,Daejeon Hana Citizen,5,11,Sat,4263
+12,Ulsan HD FC,Gimcheon Sangmu,5,12,Sun,16394
+12,Jeonbuk Hyundai Motors,Suwon FC,5,12,Sun,13009
+12,Pohang Steelers,Jeju SK,5,12,Sun,9577
+8,Gwangju FC,Ulsan HD FC,5,15,Wed,8069
+13,Daejeon Hana Citizen,Incheon United,5,18,Sat,10535
+13,Gimcheon Sangmu,Jeju SK,5,18,Sat,2279
+13,FC Seoul,Daegu FC,5,19,Sun,27365
+13,Gangwon FC,Ulsan HD FC,5,19,Sun,7850
+13,Suwon FC,Pohang Steelers,5,19,Sun,5126
+13,Gwangju FC,Jeonbuk Hyundai Motors,5,19,Sun,8091
+14,Ulsan HD FC,Daejeon Hana Citizen,5,25,Sat,14676
+14,Jeonbuk Hyundai Motors,Gimcheon Sangmu,5,25,Sat,11726
+14,Incheon United,Gwangju FC,5,25,Sat,9107
+14,Pohang Steelers,FC Seoul,5,25,Sat,13467
+14,Daegu FC,Gangwon FC,5,26,Sun,11977
+14,Jeju SK,Suwon FC,5,26,Sun,3052
+15,Gwangju FC,Pohang Steelers,5,28,Tue,2687
+15,Gimcheon Sangmu,FC Seoul,5,28,Tue,3372
+15,Incheon United,Ulsan HD FC,5,29,Wed,8413
+15,Daejeon Hana Citizen,Jeju SK,5,29,Wed,4759
+15,Gangwon FC,Jeonbuk Hyundai Motors,5,29,Wed,6125
+15,Suwon FC,Daegu FC,5,29,Wed,2328
+16,Ulsan HD FC,Jeonbuk Hyundai Motors,6,1,Sat,29007
+16,Suwon FC,Incheon United,6,1,Sat,7511
+16,Gimcheon Sangmu,Pohang Steelers,6,1,Sat,4574
+16,FC Seoul,Gwangju FC,6,2,Sun,21100
+16,Daejeon Hana Citizen,Daegu FC,6,2,Sun,9649
+16,Jeju SK,Gangwon FC,6,2,Sun,6534
+17,Pohang Steelers,Daejeon Hana Citizen,6,15,Sat,8422
+17,Gangwon FC,Suwon FC,6,15,Sat,9704
+17,Gwangju FC,Gimcheon Sangmu,6,15,Sat,4561
+17,Ulsan HD FC,FC Seoul,6,16,Sun,23856
+17,Jeonbuk Hyundai Motors,Incheon United,6,16,Sun,11477
+17,Daegu FC,Jeju SK,6,16,Sun,9885
+18,FC Seoul,Suwon FC,6,22,Sat,25157
+18,Daegu FC,Jeonbuk Hyundai Motors,6,22,Sat,10540
+18,Daejeon Hana Citizen,Gwangju FC,6,22,Sat,7350
+18,Gangwon FC,Gimcheon Sangmu,6,22,Sat,11578
+18,Incheon United,Pohang Steelers,6,23,Sun,8198
+18,Jeju SK,Ulsan HD FC,6,23,Sun,6557
+19,Suwon FC,Gwangju FC,6,25,Tue,3596
+19,Gimcheon Sangmu,,6,25,Tue,1925
+19,FC Seoul,Gangwon FC,6,26,Wed,13303
+19,Ulsan HD FC,Daegu FC,6,26,Wed,10273
+19,Jeonbuk Hyundai Motors,Pohang Steelers,6,26,Wed,6546
+19,Jeju SK,Incheon United,6,26,Wed,3044
+20,Jeonbuk Hyundai Motors,FC Seoul,6,29,Sat,12508
+20,Daejeon Hana Citizen,Suwon FC,6,29,Sat,5290
+20,Gimcheon Sangmu,Daegu FC,6,29,Sat,3832
+20,Incheon United,Gangwon FC,6,30,Sun,6164
+20,Pohang Steelers,Ulsan HD FC,6,30,Sun,13079
+20,Gwangju FC,Jeju SK,6,30,Sun,2389
+21,Incheon United,Gimcheon Sangmu,7,5,Fri,7012
+21,Suwon FC,Ulsan HD FC,7,5,Fri,7378
+21,Daegu FC,Pohang Steelers,7,6,Sat,11881
+21,Jeju SK,FC Seoul,7,6,Sat,12409
+21,Daejeon Hana Citizen,Jeonbuk Hyundai Motors,7,7,Sun,10378
+21,Gangwon FC,Gwangju FC,7,7,Sun,10334
+22,Daegu FC,Incheon United,7,9,Tue,7152
+22,Gimcheon Sangmu,Suwon FC,7,9,Tue,1085
+22,FC Seoul,Daejeon Hana Citizen,7,10,Wed,15037
+22,Ulsan HD FC,Gwangju FC,7,10,Wed,9444
+22,Jeonbuk Hyundai Motors,Jeju SK,7,10,Wed,5560
+22,Pohang Steelers,Gangwon FC,7,10,Wed,5287
+23,Ulsan HD FC,FC Seoul,7,13,Sat,21064
+23,Daejeon Hana Citizen,Gangwon FC,7,13,Sat,7147
+23,Jeju SK,Pohang Steelers,7,13,Sat,4412
+23,Suwon FC,Daegu FC,7,14,Sun,5594
+23,Gwangju FC,Incheon United,7,14,Sun,2969
+23,Gimcheon Sangmu,Jeonbuk Hyundai Motors,7,14,Sun,3524
+24,Jeonbuk Hyundai Motors,Ulsan HD FC,7,20,Sat,18573
+24,Gangwon FC,Jeju SK,7,20,Sat,10710
+24,FC Seoul,Gimcheon Sangmu,7,21,Sun,18577
+24,Daegu FC,Gwangju FC,7,21,Sun,10721
+24,Incheon United,Suwon FC,7,21,Sun,10303
+24,Daejeon Hana Citizen,Pohang Steelers,7,21,Sun,6635
+25,Gangwon FC,Jeonbuk Hyundai Motors,7,26,Fri,12272
+25,Jeju SK,Ulsan HD FC,7,26,Fri,7346
+25,Daegu FC,Daejeon Hana Citizen,7,27,Sat,11373
+25,Incheon United,FC Seoul,7,27,Sat,15213
+25,Gwangju FC,Suwon FC,7,27,Sat,4239
+25,Pohang Steelers,Gimcheon Sangmu,7,28,Sun,13221
+26,Jeonbuk Hyundai Motors,Gwangju FC,8,9,Fri,15178
+26,Gimcheon Sangmu,Gangwon FC,8,9,Fri,3402
+26,Ulsan HD FC,Daegu FC,8,10,Sat,17372
+26,Jeju SK,Incheon United,8,10,Sat,6271
+26,Suwon FC,Daejeon Hana Citizen,8,10,Sat,5223
+26,Pohang Steelers,FC Seoul,8,11,Sun,10719
+27,FC Seoul,Jeju SK,8,16,Fri,18029
+27,Daegu FC,Gimcheon Sangmu,8,16,Fri,9817
+27,Jeonbuk Hyundai Motors,Pohang Steelers,8,17,Sat,14814
+27,Daejeon Hana Citizen,Incheon United,8,17,Sat,8618
+27,Ulsan HD FC,Suwon FC,8,18,Sun,13204
+27,Gangwon FC,Gwangju FC,8,18,Sun,13170
+28,FC Seoul,Gangwon FC,8,24,Sat,34086
+28,Incheon United,Jeonbuk Hyundai Motors,8,24,Sat,15422
+28,Pohang Steelers,Daegu FC,8,24,Sat,10691
+28,Suwon FC,Jeju SK,8,25,Sun,3275
+28,Gwangju FC,Ulsan HD FC,8,25,Sun,5081
+28,Gimcheon Sangmu,,8,25,Sun,3261
+29,Ulsan HD FC,Pohang Steelers,8,31,Sat,22106
+29,Daegu FC,Incheon United,8,31,Sat,11994
+29,Jeju SK,Gimcheon Sangmu,8,31,Sat,5469
+29,Jeonbuk Hyundai Motors,FC Seoul,9,1,Sun,22749
+29,Daejeon Hana Citizen,Gwangju FC,9,1,Sun,7445
+29,Gangwon FC,Suwon FC,9,1,Sun,12292
+30,Ulsan HD FC,Gangwon FC,9,13,Fri,22010
+30,Gwangju FC,Pohang Steelers,9,13,Fri,3136
+30,FC Seoul,Daejeon Hana Citizen,9,14,Sat,26790
+30,Jeju SK,Daegu FC,9,14,Sat,7746
+30,Suwon FC,Jeonbuk Hyundai Motors,9,14,Sat,9136
+30,Gimcheon Sangmu,Incheon United,9,15,Sun,3315
+31,Daegu FC,FC Seoul,9,21,Sat,11837
+31,Suwon FC,Gimcheon Sangmu,9,21,Sat,3059
+31,Incheon United,Ulsan HD FC,9,22,Sun,13888
+31,Pohang Steelers,Gangwon FC,9,22,Sun,9427
+31,Daejeon Hana Citizen,Jeonbuk Hyundai Motors,9,22,Sun,18473
+31,Gwangju FC,Jeju SK,9,22,Sun,3468
+32,Pohang Steelers,Incheon United,9,27,Fri,6332
+32,Daejeon Hana Citizen,Ulsan HD FC,9,27,Fri,11219
+32,Jeonbuk Hyundai Motors,Jeju SK,9,28,Sat,21386
+32,Gangwon FC,Daegu FC,9,28,Sat,12677
+32,Gimcheon Sangmu,Gwangju FC,9,28,Sat,3238
+32,FC Seoul,Suwon FC,9,29,Sun,31037
+33,Ulsan HD FC,Gimcheon Sangmu,10,6,Sun,24417
+33,Daegu FC,Jeonbuk Hyundai Motors,10,6,Sun,12072
+33,Incheon United,Gangwon FC,10,6,Sun,14434
+33,Pohang Steelers,Suwon FC,10,6,Sun,9513
+33,Jeju SK,Daejeon Hana Citizen,10,6,Sun,6766
+33,Gwangju FC,FC Seoul,10,6,Sun,6357
+34,Pohang Steelers,Suwon FC,10,18,Fri,4611
+34,Gwangju FC,Daegu FC,10,18,Fri,2447
+34,Jeonbuk Hyundai Motors,Daejeon Hana Citizen,10,19,Sat,18261
+34,Incheon United,Jeju SK,10,19,Sat,7138
+34,Gimcheon Sangmu,Ulsan HD FC,10,19,Sat,5636
+34,Gangwon FC,FC Seoul,10,20,Sun,12742
+35,Gangwon FC,Gimcheon Sangmu,10,26,Sat,9383
+35,Suwon FC,FC Seoul,10,26,Sat,7971
+35,Incheon United,Gwangju FC,10,27,Sun,8257
+35,Pohang Steelers,Ulsan HD FC,10,27,Sun,13212
+35,Daejeon Hana Citizen,Daegu FC,10,27,Sun,13405
+35,Jeju SK,Jeonbuk Hyundai Motors,10,27,Sun,6376
+36,Ulsan HD FC,Gangwon FC,11,1,Fri,13438
+36,FC Seoul,Pohang Steelers,11,2,Sat,29377
+36,Jeonbuk Hyundai Motors,Incheon United,11,2,Sat,18244
+36,Gwangju FC,Daejeon Hana Citizen,11,2,Sat,4666
+36,Gimcheon Sangmu,Suwon FC,11,2,Sat,1910
+36,Daegu FC,Jeju SK,11,3,Sun,11940
+37,Suwon FC,Gangwon FC,11,9,Sat,6778
+37,FC Seoul,Ulsan HD FC,11,10,Sun,37288
+37,Jeonbuk Hyundai Motors,Daegu FC,11,10,Sun,18985
+37,Incheon United,Daejeon Hana Citizen,11,10,Sun,14633
+37,Pohang Steelers,Gimcheon Sangmu,11,10,Sun,8632
+37,Jeju SK,Gwangju FC,11,10,Sun,7651
+38,Ulsan HD FC,Suwon FC,11,23,Sat,24096
+38,Gangwon FC,Pohang Steelers,11,23,Sat,11426
+38,Gimcheon Sangmu,FC Seoul,11,23,Sat,5943
+38,Daegu FC,Incheon United,11,24,Sun,11812
+38,Daejeon Hana Citizen,Jeju SK,11,24,Sun,12743
+38,Gwangju FC,Jeonbuk Hyundai Motors,11,24,Sun,7957
